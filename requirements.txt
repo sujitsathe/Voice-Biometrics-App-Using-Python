@@ -1,0 +1,14 @@
+numpy
+librosa
+scikit-learn
+streamlit
+matplotlib
+scipy
+sounddevice
+numpy
+librosa
+scikit-learn
+streamlit
+matplotlib
+scipy
+joblib
